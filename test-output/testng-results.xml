@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Smoke Test Suite" duration-ms="22083" started-at="2016-08-03T21:53:29Z" finished-at="2016-08-03T21:53:51Z">
+    <groups>
+    </groups>
+    <test name="Smoke Tests" duration-ms="22083" started-at="2016-08-03T21:53:29Z" finished-at="2016-08-03T21:53:51Z">
+      <class name="myPackage.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:myPackage.LoginTest@7bfcd12c]" name="loginTest" duration-ms="22070" started-at="2016-08-03T14:53:29Z" finished-at="2016-08-03T14:53:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- myPackage.LoginTest -->
+    </test> <!-- Smoke Tests -->
+  </suite> <!-- Smoke Test Suite -->
+</testng-results>
