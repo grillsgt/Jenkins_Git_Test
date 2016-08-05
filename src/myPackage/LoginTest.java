@@ -30,7 +30,7 @@ public class LoginTest {
 		System.out.println("Sign In page loaded.");
 		Thread.sleep(5000);
 		driver.quit();
-		System.out.println("Browser closed");
+		System.out.println("Firefox closed");
 		
 	}
 
